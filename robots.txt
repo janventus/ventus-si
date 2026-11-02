@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /sistem/
+Disallow: /api/
+
+Sitemap: https://www.ventus.si/sitemap.xml

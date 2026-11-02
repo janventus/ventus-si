@@ -1,0 +1,24 @@
+FONTLOG for Ventus Sans and Ventus Mono (fonts used on ventus.si)
+
+Ventus Sans and Ventus Mono are Modified Versions of IBM Plex Sans (variable) and
+IBM Plex Mono, Copyright 2017-2019 IBM Corp., licensed under the SIL Open Font
+License, Version 1.1 (see LICENSE-OFL-IBM-Plex.txt in this folder).
+"Plex" is a Reserved Font Name of IBM Corp.; therefore the modified fonts carry
+different names.
+
+Source files: Fontsource packages @fontsource-variable/ibm-plex-sans and
+@fontsource/ibm-plex-mono (latin and latin-ext subsets).
+
+Changes (22 October 2026):
+- Subset to the characters used on the website (Basic Latin, Latin-1, Slovenian
+  and Croatian letters, punctuation, a few symbols). Glyph outlines, hinting,
+  OpenType features and the weight axis are unchanged.
+- Renamed the font family and PostScript names from "IBM Plex Sans"/"IBM Plex Mono"
+  to "Ventus Sans"/"Ventus Mono".
+- Added a modification note to the copyright string and the OFL licence
+  description to the name table.
+
+Build script: scripts/build-fonts.py in the website repository.
+
+The modified fonts are distributed under the SIL Open Font License, Version 1.1.
+Thanks to IBM and the IBM Plex designers (Mike Abbink, Bold Monday) for the original fonts.

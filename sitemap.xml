@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://www.ventus.si/</loc>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://www.ventus.si/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.ventus.si/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.ventus.si/"/>
+  </url>
+  <url>
+    <loc>https://www.ventus.si/en/</loc>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://www.ventus.si/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.ventus.si/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.ventus.si/"/>
+  </url>
+  <url>
+    <loc>https://www.ventus.si/storitve/</loc>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://www.ventus.si/storitve/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.ventus.si/en/services/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.ventus.si/storitve/"/>
+  </url>
+  <url>
+    <loc>https://www.ventus.si/en/services/</loc>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://www.ventus.si/storitve/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.ventus.si/en/services/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.ventus.si/storitve/"/>
+  </url>
+  <url>
+    <loc>https://www.ventus.si/obvestila/</loc>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://www.ventus.si/obvestila/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.ventus.si/en/news/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.ventus.si/obvestila/"/>
+  </url>
+  <url>
+    <loc>https://www.ventus.si/en/news/</loc>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://www.ventus.si/obvestila/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.ventus.si/en/news/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.ventus.si/obvestila/"/>
+  </url>
+  <url>
+    <loc>https://www.ventus.si/koristni-nasveti/</loc>
+  </url>
+  <url>
+    <loc>https://www.ventus.si/kontakt/</loc>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://www.ventus.si/kontakt/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.ventus.si/en/contact/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.ventus.si/kontakt/"/>
+  </url>
+  <url>
+    <loc>https://www.ventus.si/en/contact/</loc>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://www.ventus.si/kontakt/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.ventus.si/en/contact/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.ventus.si/kontakt/"/>
+  </url>
+  <url>
+    <loc>https://www.ventus.si/politika-zasebnosti/</loc>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://www.ventus.si/politika-zasebnosti/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.ventus.si/en/privacy-policy/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.ventus.si/politika-zasebnosti/"/>
+  </url>
+  <url>
+    <loc>https://www.ventus.si/en/privacy-policy/</loc>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://www.ventus.si/politika-zasebnosti/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.ventus.si/en/privacy-policy/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.ventus.si/politika-zasebnosti/"/>
+  </url>
+  <url>
+    <loc>https://www.ventus.si/piskotki/</loc>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://www.ventus.si/piskotki/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.ventus.si/en/cookies/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.ventus.si/piskotki/"/>
+  </url>
+  <url>
+    <loc>https://www.ventus.si/en/cookies/</loc>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://www.ventus.si/piskotki/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.ventus.si/en/cookies/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.ventus.si/piskotki/"/>
+  </url>
+  <url>
+    <loc>https://www.ventus.si/pravno-obvestilo/</loc>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://www.ventus.si/pravno-obvestilo/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.ventus.si/en/legal-notice/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.ventus.si/pravno-obvestilo/"/>
+  </url>
+  <url>
+    <loc>https://www.ventus.si/en/legal-notice/</loc>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://www.ventus.si/pravno-obvestilo/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.ventus.si/en/legal-notice/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.ventus.si/pravno-obvestilo/"/>
+  </url>
+  <url>
+    <loc>https://www.ventus.si/pogoji-uporabe/</loc>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://www.ventus.si/pogoji-uporabe/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.ventus.si/en/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.ventus.si/pogoji-uporabe/"/>
+  </url>
+  <url>
+    <loc>https://www.ventus.si/en/terms-of-use/</loc>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://www.ventus.si/pogoji-uporabe/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.ventus.si/en/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.ventus.si/pogoji-uporabe/"/>
+  </url>
+  <url>
+    <loc>https://www.ventus.si/storitve/hladilni-agregati/</loc>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://www.ventus.si/storitve/hladilni-agregati/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.ventus.si/en/services/chillers/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.ventus.si/storitve/hladilni-agregati/"/>
+  </url>
+  <url>
+    <loc>https://www.ventus.si/en/services/chillers/</loc>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://www.ventus.si/storitve/hladilni-agregati/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.ventus.si/en/services/chillers/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.ventus.si/storitve/hladilni-agregati/"/>
+  </url>
+  <url>
+    <loc>https://www.ventus.si/storitve/toplotne-crpalke/</loc>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://www.ventus.si/storitve/toplotne-crpalke/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.ventus.si/en/services/heat-pumps/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.ventus.si/storitve/toplotne-crpalke/"/>
+  </url>
+  <url>
+    <loc>https://www.ventus.si/en/services/heat-pumps/</loc>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://www.ventus.si/storitve/toplotne-crpalke/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.ventus.si/en/services/heat-pumps/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.ventus.si/storitve/toplotne-crpalke/"/>
+  </url>
+  <url>
+    <loc>https://www.ventus.si/storitve/klimati-in-prezracevalne-naprave/</loc>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://www.ventus.si/storitve/klimati-in-prezracevalne-naprave/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.ventus.si/en/services/air-handling-units-and-ventilation/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.ventus.si/storitve/klimati-in-prezracevalne-naprave/"/>
+  </url>
+  <url>
+    <loc>https://www.ventus.si/en/services/air-handling-units-and-ventilation/</loc>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://www.ventus.si/storitve/klimati-in-prezracevalne-naprave/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.ventus.si/en/services/air-handling-units-and-ventilation/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.ventus.si/storitve/klimati-in-prezracevalne-naprave/"/>
+  </url>
+  <url>
+    <loc>https://www.ventus.si/storitve/ventilatorski-konvektorji/</loc>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://www.ventus.si/storitve/ventilatorski-konvektorji/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.ventus.si/en/services/fan-coil-units/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.ventus.si/storitve/ventilatorski-konvektorji/"/>
+  </url>
+  <url>
+    <loc>https://www.ventus.si/en/services/fan-coil-units/</loc>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://www.ventus.si/storitve/ventilatorski-konvektorji/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.ventus.si/en/services/fan-coil-units/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.ventus.si/storitve/ventilatorski-konvektorji/"/>
+  </url>
+  <url>
+    <loc>https://www.ventus.si/storitve/pozarne-in-dimne-lopute/</loc>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://www.ventus.si/storitve/pozarne-in-dimne-lopute/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.ventus.si/en/services/fire-and-smoke-dampers/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.ventus.si/storitve/pozarne-in-dimne-lopute/"/>
+  </url>
+  <url>
+    <loc>https://www.ventus.si/en/services/fire-and-smoke-dampers/</loc>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://www.ventus.si/storitve/pozarne-in-dimne-lopute/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.ventus.si/en/services/fire-and-smoke-dampers/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.ventus.si/storitve/pozarne-in-dimne-lopute/"/>
+  </url>
+  <url>
+    <loc>https://www.ventus.si/storitve/f-plini-in-hladiva/</loc>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://www.ventus.si/storitve/f-plini-in-hladiva/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.ventus.si/en/services/f-gas-and-refrigerants/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.ventus.si/storitve/f-plini-in-hladiva/"/>
+  </url>
+  <url>
+    <loc>https://www.ventus.si/en/services/f-gas-and-refrigerants/</loc>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://www.ventus.si/storitve/f-plini-in-hladiva/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.ventus.si/en/services/f-gas-and-refrigerants/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.ventus.si/storitve/f-plini-in-hladiva/"/>
+  </url>
+  <url>
+    <loc>https://www.ventus.si/storitve/strezniski-in-tehnicni-prostori/</loc>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://www.ventus.si/storitve/strezniski-in-tehnicni-prostori/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.ventus.si/en/services/server-and-technical-rooms/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.ventus.si/storitve/strezniski-in-tehnicni-prostori/"/>
+  </url>
+  <url>
+    <loc>https://www.ventus.si/en/services/server-and-technical-rooms/</loc>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://www.ventus.si/storitve/strezniski-in-tehnicni-prostori/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.ventus.si/en/services/server-and-technical-rooms/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.ventus.si/storitve/strezniski-in-tehnicni-prostori/"/>
+  </url>
+  <url>
+    <loc>https://www.ventus.si/obvestila/2026-10-27-f-plini-uredba-2024-573/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://www.ventus.si/obvestila/2026-10-27-f-plini-uredba-2024-573/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.ventus.si/en/news/2026-10-27-f-plini-uredba-2024-573/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.ventus.si/obvestila/2026-10-27-f-plini-uredba-2024-573/"/>
+  </url>
+  <url>
+    <loc>https://www.ventus.si/en/news/2026-10-27-f-plini-uredba-2024-573/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://www.ventus.si/obvestila/2026-10-27-f-plini-uredba-2024-573/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.ventus.si/en/news/2026-10-27-f-plini-uredba-2024-573/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.ventus.si/obvestila/2026-10-27-f-plini-uredba-2024-573/"/>
+  </url>
+  <url>
+    <loc>https://www.ventus.si/obvestila/2026-11-03-nova-spletna-stran/</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://www.ventus.si/obvestila/2026-11-03-nova-spletna-stran/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.ventus.si/en/news/2026-11-03-nova-spletna-stran/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.ventus.si/obvestila/2026-11-03-nova-spletna-stran/"/>
+  </url>
+  <url>
+    <loc>https://www.ventus.si/en/news/2026-11-03-nova-spletna-stran/</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://www.ventus.si/obvestila/2026-11-03-nova-spletna-stran/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.ventus.si/en/news/2026-11-03-nova-spletna-stran/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.ventus.si/obvestila/2026-11-03-nova-spletna-stran/"/>
+  </url>
+  <url>
+    <loc>https://www.ventus.si/koristni-nasveti/evidenca-f-plinov/</loc>
+    <lastmod>2026-10-26</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ventus.si/koristni-nasveti/hladilni-agregat-pozimi/</loc>
+    <lastmod>2026-10-26</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ventus.si/koristni-nasveti/hlajenje-strezniskega-prostora/</loc>
+    <lastmod>2026-10-26</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ventus.si/koristni-nasveti/kontrola-uhajanja-hladiva/</loc>
+    <lastmod>2026-10-26</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ventus.si/koristni-nasveti/pregledi-pozarnih-loput/</loc>
+    <lastmod>2026-10-26</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ventus.si/koristni-nasveti/servis-ventilatorskih-konvektorjev/</loc>
+    <lastmod>2026-10-26</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ventus.si/koristni-nasveti/uredba-eu-2024-573-f-plini/</loc>
+    <lastmod>2026-10-26</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ventus.si/koristni-nasveti/vzdrzevanje-klimata/</loc>
+    <lastmod>2026-10-26</lastmod>
+  </url>
+</urlset>
